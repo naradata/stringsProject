@@ -1,0 +1,3 @@
+# stringsProject
+
+A Python project.
