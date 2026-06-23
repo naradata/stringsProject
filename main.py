@@ -82,6 +82,15 @@ players = [
         'hltv_rating': 1.06,
         'team': 'g2',
     },
+{
+        'name': 'rntu',
+        'country': 'united states of america',
+        'age': '21',
+        'role': 'rifler',
+        'hltv_rating': 1.27,
+        'team': '99w9',
+
+    },
 ]
 
 while True:
