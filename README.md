@@ -1,3 +1,3 @@
 # stringsProject
 
-A Python project.
+A Python project that allows user to find stats of Counter Strike professionals
